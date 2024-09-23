@@ -18,7 +18,7 @@ Hello! My name is Edgar and I am a Fullstack Developer🖥️
 ## 🔍 I am looking for
 &nbsp;&nbsp;&nbsp;&nbsp;🏢 Software engineer opportunities. Feel free to [contact me](----) through Linkedin to discuss! 
 
-[![forthebadge](https://img.shields.io/badge/linkedin-follow%20me-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahmudul-hasan-jony/)
+[![forthebadge](-)
 
 <!--
 **mhjony/mhjony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
