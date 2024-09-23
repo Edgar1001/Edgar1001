@@ -7,6 +7,8 @@ Hello! My name is Edgar and I am a Fullstack Developer🖥️
 &nbsp;&nbsp;&nbsp;&nbsp;<b><i>DevOps </i></b>📊 Docker, Terraform, Cloudformation, Cloudwatch, Jenkins, AWS<br />
 &nbsp;&nbsp;&nbsp;&nbsp;<b><i>Processes </i></b>⚙️ Agile, Scrum<br />
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,js,react)](https://skillicons.dev)
+
 ## 🛠️ Projects I'm currently working on
 &nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 --<br />
 &nbsp;&nbsp;&nbsp;&nbsp;🔏 Building a Social network App using MERN stack <br />
