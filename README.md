@@ -1,4 +1,4 @@
-#  Hello! My name is Edgar and I am a Fullstack Developer🖥️
+## Hello! My name is Edgar and I am a Fullstack Developer🖥️
 
 ## Skills
 &nbsp;&nbsp;&nbsp;&nbsp;<b><i>Programming Language </i></b> ⚡ C, Java, JavaScript<br />
