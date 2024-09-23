@@ -3,7 +3,7 @@ Hello! My name is Edgar and I am a Fullstack Developer🖥️
 ## Skills
 *&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Programming Language </i></b>
 C, Java, JavaScript<br />
-*&nbsp;&nbsp;&nbsp; <b><i>Web Technology </i></b> 
+*<b><i>Web Technology </i></b> 
 Node.js, Reactjs, HTML5, CSS3, Bootstrap <br />
 *&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Database </i></b> 
 MySQL, NoSQL PostgreSQL<br />
