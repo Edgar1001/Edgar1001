@@ -1,6 +1,6 @@
-#Hello! My name is Edgar and I am a Fullstack Developer🖥️
+#  Hello! My name is Edgar and I am a Fullstack Developer🖥️
 
-## 💡 Skills
+## Skills
 &nbsp;&nbsp;&nbsp;&nbsp;<b><i>Programming Language </i></b> ⚡ C, Java, JavaScript<br />
 &nbsp;&nbsp;&nbsp; <b><i>Web Technology </i></b> Node.js, Reactjs, HTML5, CSS3, Bootstrap <br />
 &nbsp;&nbsp;&nbsp;&nbsp;<b><i>Database </i></b> MySQL, NoSQL PostgreSQL<br />
@@ -11,10 +11,10 @@
 
 ## Projects I'm currently working on
 &nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 --<br />
-&nbsp;&nbsp;&nbsp;&nbsp;🔏 Building a Social network App using MERN stack <br />
+&nbsp;&nbsp;&nbsp;&nbsp;🔏 Building a Social media App using MERN stack. <br />
 
 ## My hobbies
-&nbsp;&nbsp;&nbsp;&nbsp;⚽ PLaying Football
+&nbsp;&nbsp;&nbsp;&nbsp;⚽ PLaying Football, biking and swimming.
 &nbsp;&nbsp;&nbsp;&nbsp;📖 Learning new things
 
 ## I am looking for
