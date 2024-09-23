@@ -7,7 +7,7 @@
 *&nbsp;&nbsp;&nbsp;&nbsp;<b><i>DevOps </i></b> Docker, Terraform, Cloudformation, Cloudwatch, Jenkins, AWS<br />
 *&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Processes </i></b>⚙️ Agile, Scrum<br />
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,js,react,terraform,vscode,java,jest,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,react,terraform,vscode,java,jest,c)](https://skillicons.dev)
 ## GitHub stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Edgar1001&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
 
