@@ -1,11 +1,16 @@
-## Hello! My name is Edgar and I am a Fullstack Developer🖥️
+Hello! My name is Edgar and I am a Fullstack Developer🖥️
 
 ## Skills
-*&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Programming Language </i></b> ⚡ C, Java, JavaScript<br />
-*&nbsp;&nbsp;&nbsp; <b><i>Web Technology </i></b> Node.js, Reactjs, HTML5, CSS3, Bootstrap <br />
-*&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Database </i></b> MySQL, NoSQL PostgreSQL<br />
-*&nbsp;&nbsp;&nbsp;&nbsp;<b><i>DevOps </i></b> Docker, Terraform, Cloudformation, Cloudwatch, Jenkins, AWS<br />
-*&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Processes </i></b>⚙️ Agile, Scrum<br />
+*&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Programming Language </i></b>
+C, Java, JavaScript<br />
+*&nbsp;&nbsp;&nbsp; <b><i>Web Technology </i></b> 
+Node.js, Reactjs, HTML5, CSS3, Bootstrap <br />
+*&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Database </i></b> 
+MySQL, NoSQL PostgreSQL<br />
+*&nbsp;&nbsp;&nbsp;&nbsp;<b><i>DevOps </i></b> 
+Docker, Terraform, Cloudformation, Cloudwatch, Jenkins, AWS<br />
+*&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Processes </i></b>
+Agile, Scrum<br />
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,react,terraform,vscode,java,jest,c)](https://skillicons.dev)
 ## GitHub stats
