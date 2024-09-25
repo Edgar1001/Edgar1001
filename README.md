@@ -3,16 +3,28 @@ Hello! My name is Edgar and I am passionate about Software development🖥️
 ## Skills
 *&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Programming Languages: </i></b>
 C, Java, JavaScript, Python. <br />
+
+[![My Skills](https://skillicons.dev/icons?i=c,java,js,py)](https://skillicons.dev)
+
 *&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Web Technologies: </i></b> 
-Node.js, Reactjs, HTML5, CSS3, Bootstrap. <br />
+Typescript, HTML5, CSS3, Node.js, React.js, Spring, Express.js. <br />
+
+[![My Skills](https://skillicons.dev/icons?i=ts,html,css,nodejs,react,spring,express)](https://skillicons.dev)
+
 *&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Databases: </i></b> 
-MySQL, NoSQL PostgreSQL. <br />
+MySQL, MongoDB, PostgreSQL. <br />
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
+
+
 *&nbsp;&nbsp;&nbsp;&nbsp;<b><i>DevOps: </i></b> 
-Linux, Docker, Terraform, Ansible, Cloudwatch, Jenkins, AWS. <br />
+Linux, Docker, git, Terraform, Ansible, Cloudwatch, Jenkins, Bash, AWS. <br />
+
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,git,terraform,ansible,vscode,bash,aws)](https://skillicons.dev)
+
 *&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Processes: </i></b>
 Agile, Scrum. <br />
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,react,terraform,vscode,java,jest,c)](https://skillicons.dev)
 ## GitHub stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Edgar1001&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
 
