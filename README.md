@@ -2,9 +2,9 @@ Hello! My name is Edgar and I am passionate about Software development🖥️
 
 ## Skills
 *&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Programming Languages: </i></b>
-C, Java, JavaScript, Python. <br />
+C, Java, JavaScript. <br />
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,js,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,js)](https://skillicons.dev)
 
 *&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Web Technologies: </i></b> 
 Typescript, HTML5, CSS3, Node.js, React.js, Spring, Express.js. <br />
