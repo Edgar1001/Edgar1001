@@ -1,4 +1,4 @@
-Hello! My name is Edgar and I am a Fullstack Developer🖥️
+Hello! My name is Edgar and I am passionate about Software development🖥️
 
 ## Skills
 *&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Programming Languages: </i></b>
