@@ -1,4 +1,8 @@
-Hello! My name is Edgar and I am passionate about Software development🖥️
+Hello!
+
+My name is <b><>Edgar</b><> 
+
+& I am passionate about <b><>Software development</b><>🖥️
 
 ## Skills
 <b><i>Programming Languages: </i></b>
