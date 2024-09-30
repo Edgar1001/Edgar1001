@@ -25,6 +25,10 @@ Linux, Docker, git, Terraform, Ansible, Cloudwatch, Jenkins, Bash, AWS. <br />
 <b><i>Processes: </i></b>
 Agile, Scrum. <br />
 
+[![Badge Name](Badges/sol.png)](link-to-your-credly-badge)
+[![Badge Name](Badges/dev.png)](link-to-your-credly-badge)
+
+
 ## GitHub stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Edgar1001&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
 
