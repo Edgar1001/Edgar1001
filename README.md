@@ -25,8 +25,10 @@ Linux, Docker, git, Terraform, Ansible, Cloudwatch, Jenkins, Bash, AWS. <br />
 <b><i>Processes: </i></b>
 Agile, Scrum. <br />
 
-[![Badge Name](Badges/sol.png)](link-to-your-credly-badge)
-[![Badge Name](Badges/dev.png)](link-to-your-credly-badge)
+<b><i>AWS Certifications:</i></b>
+
+[![Badge Name](Badges/sol.png)](https://www.credly.com/badges/824a061d-6d88-4915-a168-e342f0054736)
+[![Badge Name](Badges/dev.png)](https://www.credly.com/badges/a7f1000c-43bc-42ca-8418-197b73c60e14)
 
 
 ## GitHub stats
