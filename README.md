@@ -1,28 +1,28 @@
 Hello! My name is Edgar and I am passionate about Software development🖥️
 
 ## Skills
-&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Programming Languages: </i></b>
+<b><i>Programming Languages: </i></b>
 C, Java, JavaScript. <br />
 
 [![My Skills](https://skillicons.dev/icons?i=c,java,js)](https://skillicons.dev)
 
-&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Web Technologies: </i></b> 
+<b><i>Web Technologies: </i></b> 
 Typescript, HTML5, CSS3, Node.js, React.js, Spring, Express.js. <br />
 
 [![My Skills](https://skillicons.dev/icons?i=ts,html,css,nodejs,react,spring,express)](https://skillicons.dev)
 
-&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Databases: </i></b> 
+<b><i>Databases: </i></b> 
 MySQL, MongoDB, PostgreSQL. <br />
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;<b><i>DevOps: </i></b> 
+<b><i>DevOps: </i></b> 
 Linux, Docker, git, Terraform, Ansible, Cloudwatch, Jenkins, Bash, AWS. <br />
 
 [![My Skills](https://skillicons.dev/icons?i=linux,docker,git,terraform,ansible,vscode,bash,aws)](https://skillicons.dev)
 
-&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Processes: </i></b>
+<b><i>Processes: </i></b>
 Agile, Scrum. <br />
 
 ## GitHub stats
@@ -35,7 +35,7 @@ Agile, Scrum. <br />
 ## My hobbies
 &nbsp;&nbsp;&nbsp;&nbsp;⚽ Playing Football, biking and swimming.
 
-&nbsp;&nbsp;&nbsp;&nbsp;📖 Nature, gym and cibersecurity.
+&nbsp;&nbsp;&nbsp;&nbsp;📖 Nature, gym and travelling.
 
 ## I am looking for
 &nbsp;&nbsp;&nbsp;&nbsp;🏢 Software engineer opportunities. Feel free to [contact me](https://www.linkedin.com/in/edgar-rosende-764aa978) through Linkedin to discuss! 
