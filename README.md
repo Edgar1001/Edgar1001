@@ -6,9 +6,9 @@ My name is <b><>Edgar</b><>
 
 ## Skills
 <b><i>Programming Languages: </i></b>
-C, Java, JavaScript. <br />
+Java, JavaScript. <br />
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js)](https://skillicons.dev)
 
 <b><i>Web Technologies: </i></b> 
 Typescript, HTML5, CSS3, Node.js, React.js, Spring, Express.js. <br />
