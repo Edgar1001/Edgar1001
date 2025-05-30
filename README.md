@@ -36,7 +36,7 @@ Agile, Scrum. <br />
 
 
 ## GitHub stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Edgar1001&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Edgar1001&layout=compact&langs_count=6&theme=github_dark)
 
 ## Projects I'm currently working on
 &nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Building a Webapp with Geolocation features. <br />
