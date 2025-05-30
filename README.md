@@ -39,9 +39,9 @@ Agile, Scrum. <br />
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Edgar1001&layout=compact&theme=github_dark&exclude_repo=Python_modules)
 
 ## Projects I'm currently working on
-👨‍💻 Developing a web app for robot management, including remote control, diagnostics, event tracking, and real-time video streaming.
-📱 Enhancing a fitness Android app with support for additional sensor data and performance tracking.
-🔧 Automating CI/CD pipelines across projects, handling tasks like dependency installation, linting, unit & E2E testing, and deployment workflows.
+👨‍💻 Developing a web app for robot management, including remote control, diagnostics, event tracking, and real-time video streaming.  
+📱 Enhancing a fitness Android app with support for additional sensor data and performance tracking.  
+🔧 Automating CI/CD pipelines across projects, handling tasks like dependency installation, linting, unit & E2E testing, and deployment workflows.  
 
 ## My hobbies
 &nbsp;&nbsp;&nbsp;&nbsp;⚽ Playing Football, biking and swimming.
