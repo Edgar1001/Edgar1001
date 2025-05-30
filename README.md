@@ -39,8 +39,10 @@ Agile, Scrum. <br />
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Edgar1001&layout=compact&theme=github_dark&exclude_repo=Python_modules)
 
 ## Projects I'm currently working on
-&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Building a Webapp with Geolocation features. <br />
-&nbsp;&nbsp;&nbsp;&nbsp;🔏 Building a Social media App using MERN stack. <br />
+&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Developing a web app for robot management, including remote control, diagnostics, event tracking, and real-time video streaming.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;📱 Enhancing a fitness Android app with support for additional sensor data and performance tracking.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;🔧 Automating CI/CD pipelines across projects — handling tasks like dependency installation, linting, unit & E2E testing, and deployment workflows. <br />
+
 
 ## My hobbies
 &nbsp;&nbsp;&nbsp;&nbsp;⚽ Playing Football, biking and swimming.
