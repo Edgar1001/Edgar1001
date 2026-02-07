@@ -8,7 +8,7 @@ My name is <b><>Edgar</b><>
 <b><i>Programming Languages: </i></b>
 Java, JavaScript. <br />
 
-[![My Skills](https://skillicons.dev/icons?i=java,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,js)](https://skillicons.dev)
 
 <b><i>Web Technologies: </i></b> 
 Typescript, HTML5, CSS3, Node.js, React.js, Spring, Express.js. <br />
