@@ -16,15 +16,15 @@ Typescript, HTML5, CSS3, Node.js, React.js, Spring, Express.js. <br />
 [![My Skills](https://skillicons.dev/icons?i=ts,html,css,nodejs,react,spring,express)](https://skillicons.dev)
 
 <b><i>Databases: </i></b> 
-MySQL, MongoDB, PostgreSQL. <br />
+MySQL, MongoDB, PostgreSQL, SQLite. <br />
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite)](https://skillicons.dev)
 
 
 <b><i>DevOps: </i></b> 
-Linux, Docker, git, Terraform, Ansible, Cloudwatch, Jenkins, Bash, AWS. <br />
+Linux, Docker, git, Terraform, Ansible, Grafana, Kubernetes, Jenkins, Bash, AWS. <br />
 
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,git,terraform,ansible,cloudwatch,jenkins,bash,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,git,terraform,ansible,grafana,kubernetes,jenkins,bash,aws)](https://skillicons.dev)
 
 <b><i>Processes: </i></b>
 Agile, Scrum. <br />
