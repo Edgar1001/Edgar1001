@@ -36,7 +36,7 @@ Agile, Scrum. <br />
 
 
 ## GitHub stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Edgar1001&layout=compact&theme=github_dark&exclude_repo=Python_modules)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Edgar1001&theme=github_dark)
 
 ## Projects I'm currently working on
 👨‍💻 Developing a web app for robot management, including remote control, diagnostics, event tracking, and real-time video streaming.  
