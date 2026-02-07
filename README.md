@@ -24,7 +24,7 @@ MySQL, MongoDB, PostgreSQL. <br />
 <b><i>DevOps: </i></b> 
 Linux, Docker, git, Terraform, Ansible, Cloudwatch, Jenkins, Bash, AWS. <br />
 
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,git,terraform,ansible,vscode,bash,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,git,terraform,ansible,cloudwatch,jenkins,bash,aws)](https://skillicons.dev)
 
 <b><i>Processes: </i></b>
 Agile, Scrum. <br />
