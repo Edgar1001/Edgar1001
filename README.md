@@ -44,12 +44,12 @@ Agile, Scrum. <br />
 🔧 Automating CI/CD pipelines across projects, handling tasks like dependency installation, linting, unit & E2E testing, and deployment workflows.  
 
 ## My hobbies
-&nbsp;&nbsp;&nbsp;&nbspPlaying Football, biking and swimming.
+Playing Football, biking and swimming.
 
-&nbsp;&nbsp;&nbsp;&nbspNature, gym and travelling.
+Nature, gym and travelling.
 
 ## I am looking for
-&nbsp;&nbsp;&nbsp;&nbsp;Software engineer opportunities. Feel free to [contact me](https://www.linkedin.com/in/edgar-rosende-764aa978) through Linkedin to discuss! 
+Software engineer opportunities. Feel free to [contact me](https://www.linkedin.com/in/edgar-rosende-764aa978) through Linkedin to discuss! 
 
 [![forthebadge](https://img.shields.io/badge/linkedin-follow%20me-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/edgar-rosende-764aa978)
 
