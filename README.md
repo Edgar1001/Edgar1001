@@ -36,7 +36,14 @@ Agile, Scrum. <br />
 
 
 ## GitHub stats
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Edgar1001&theme=github_dark)
+
+![Java](https://img.shields.io/badge/Java-17%25-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-15%25-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-15%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-18%25-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-20%25-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-8%25-1572B6?style=flat-square&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-7%25-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 ## Projects I'm currently working on
 👨‍💻 Developing a web app for robot management, including remote control, diagnostics, event tracking, and real-time video streaming.  
