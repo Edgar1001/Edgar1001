@@ -6,7 +6,7 @@ My name is <b><>Edgar</b><>
 
 ## Skills
 <b><i>Programming Languages: </i></b>
-Java, JavaScript. <br />
+Java, Python, JavaScript. <br />
 
 [![My Skills](https://skillicons.dev/icons?i=java,py,js)](https://skillicons.dev)
 
